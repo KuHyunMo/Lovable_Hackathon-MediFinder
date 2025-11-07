@@ -12,3 +12,4 @@ Lavable ai를 이용하여 프로젝트를 진행
 
 # Hack@thon 결과
 우수상 수상
+![Image](https://github.com/user-attachments/assets/74517cac-b661-4358-8aff-7b20c899d862)
